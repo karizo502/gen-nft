@@ -1,0 +1,2 @@
+# gen-nft
+generate nft 
